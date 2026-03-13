@@ -1,0 +1,5 @@
+planilhaAlunos.xlsx
+__pycache__/
+*.pyc
+.idea/
+*.xlsx
