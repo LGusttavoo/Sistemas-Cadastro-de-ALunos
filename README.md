@@ -22,3 +22,4 @@ cadastro e gerenciamento de notas de alunos.
 | professor  | 1234  | Professor  |
 | aluno1     | 1234  | Aluno      |
 | aluno2     | 1234  | Aluno      |
+
